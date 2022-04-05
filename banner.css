@@ -1,0 +1,70 @@
+.mainbox {
+
+    background-color: rgba(225,224,223,1);
+    width: 50vw;
+    font-size: 18px;
+    font-family: macha;
+    height: auto;
+    border-radius: 10px;
+    border: solid 1px darkgray;
+    margin: auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+
+p span {
+    font-weight: bold;
+}
+
+hr {
+    width: 20%;
+    height: 2px;
+    border: none;
+    background-color: black;
+}
+
+.semflex {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.headline {
+    font-size: 26px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sembutton {
+    background-color: #09BCD4;
+    color: white;
+    font: macha;
+    width: fit-content;
+    height: 20px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 8px;
+    margin-bottom: 17px;
+    border: solid 1px darkgray;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sembutton:active {
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.sembutton:hover {
+    background-color: #0798ab;
+}
+
+
+
+
+a {
+    text-decoration: none;
+}
