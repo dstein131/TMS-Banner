@@ -1,7 +1,7 @@
 .mainbox {
 
     background-color: rgba(225,224,223,1);
-    width: 50vw;
+    width: 470px;
     font-size: 18px;
     font-family: macha;
     height: auto;
@@ -28,7 +28,7 @@ hr {
 }
 
 .headline {
-    font-size: 24px;
+    font-size: 26px;
     margin-left: 10px;
     margin-right: 10px;
 }
